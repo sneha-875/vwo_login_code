@@ -2,8 +2,8 @@
 
 #Framework consist of:-
 
-Java 21
-TestNG
-Maven
-Selenium
-Allure Reports
+- Jav21a 
+- TestNG
+- Maven
+- Selenium
+- Allure Reports
